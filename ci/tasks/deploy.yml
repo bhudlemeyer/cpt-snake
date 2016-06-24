@@ -12,3 +12,4 @@ params:
   CF_PASSWORD:            replace-me
   CF_ORG:                 replace-me
   CF_SPACE:               replace-me
+  ENVBHUD: HELLO-WORLD

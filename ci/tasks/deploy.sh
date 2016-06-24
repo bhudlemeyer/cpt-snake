@@ -16,6 +16,7 @@ export PATH=${PWD}:$PATH
 
 cd cpt-snake/
 
+echo "Hello World"
 echo "${CF_IP} api.${CF_ENDPOINT}" >> /etc/hosts
 echo "${CF_IP} login.${CF_ENDPOINT}" >> /etc/hosts
 echo "${CF_IP} dojo-snake-acceptance.${CF_ENDPOINT}" >> /etc/hosts
